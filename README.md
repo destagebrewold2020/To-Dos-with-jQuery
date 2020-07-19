@@ -1,2 +1,2 @@
 # todos
-Simple todos list with HTML/JavaScript/jQuery
+Simple todos app with HTML, CSS/jQuery
